@@ -57,10 +57,12 @@ _Consultant Musculoskeletal Radiologist - Health and Radiology technologist, AI 
 * **MBChB** Edinburgh University College of Medicine & Surgery, Edinburgh 2004.
 * **Bsc Hons** Edinburgh University School of Biomedical Sciences, Edinburgh 2002.
 
-
-## Memberships
+## Memberships
 
 * The Royal College of Radiologists
 * The Radiological Society of North America
 * The European Society of Skeletal Radiologists
 * The British Society of Skeletal Radiologists
+* Medical Defence Union
+
+Licensed to practice as a radiologist by The General Medical Council: 6099640
